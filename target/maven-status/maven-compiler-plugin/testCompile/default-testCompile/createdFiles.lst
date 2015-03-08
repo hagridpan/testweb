@@ -1,1 +1,5 @@
+org\pbc\qzgk\testweb\data\UserData.class
+org\pbc\qzgk\testweb\repository\TaskDaoTest.class
+org\pbc\qzgk\testweb\service\account\AccountServiceTest.class
 org\pbc\qzgk\testweb\repository\JpaMappingTest.class
+org\pbc\qzgk\testweb\data\TaskData.class
