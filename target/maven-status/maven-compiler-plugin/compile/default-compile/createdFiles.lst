@@ -1,3 +1,7 @@
-org\pbc\qzgk\testweb\entity\IdEntity.class
+org\pbc\qzgk\testweb\repository\TaskDao.class
+org\pbc\qzgk\testweb\repository\UserDao.class
+org\pbc\qzgk\testweb\service\account\AccountService.class
 org\pbc\qzgk\testweb\entity\Task.class
+org\pbc\qzgk\testweb\entity\IdEntity.class
 org\pbc\qzgk\testweb\entity\User.class
+org\pbc\qzgk\testweb\service\ServiceException.class
